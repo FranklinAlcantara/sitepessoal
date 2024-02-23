@@ -1,0 +1,62 @@
+#header {    
+    background-color: white;
+    width: auto;
+    margin: 5px 5px 5px 5px;
+    border: red;
+    padding: 0px; 
+    position: static;
+    top: 0px;
+    right: 25px;
+    left: 25px; 
+    bottom: 0px;
+}
+
+#conteudo1 {   
+    background-color: red;
+    width: auto;
+    margin: 5px 5px 5px 5px;
+    border: white;
+    padding: 0px; 
+    position: static;
+    top: 0px;
+    right: 25px;
+    left: 25px; 
+    bottom: 0px;
+}    
+    
+body{
+    width: auto;
+    margin: auto;
+    padding: 0 20px 20px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+    
+#git {
+    margin: 5px;
+    height: auto;
+    width: auto;
+    max-width: 30px;
+    max-height: 30px;
+    }
+
+    
+#linkedin {
+    margin: 5px;
+    height: auto;
+    width: auto;
+    max-width: 30px;
+    max-height: 30px;
+    }
+
+    
+
+    
+#listacurri{
+    position: center;
+    list-style: none;
+
+
+    
+    }
+

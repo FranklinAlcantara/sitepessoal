@@ -1,0 +1,53 @@
+body {
+background-image: linear-gradient(45deg, blue, white);
+font-family: 'Times New Roman', Times, serif;
+height: auto;
+width: auto;
+text-align: center;
+overflow: hidden;
+}
+.botao {
+    border-radius: 10px;
+    background-color: black;
+    font-size: 25px;
+    color: white;
+    margin: auto;
+    border: none;
+    padding: 0px ;
+    width: 40px;
+    height: 40px;  
+    cursor: pointer;   
+}
+.botao:hover {
+    background-color: white;
+    color: black;
+    }
+.texto{
+    background-color: white;    
+    font-size: 15px;
+}
+.saida 
+{
+    background-color: white;
+    margin: 5px;
+
+}
+
+.numsaida {
+    text-align: center;
+    background-color: white;
+    height: 20px;  
+    margin: 5px;
+    
+}
+.calculadora {
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 5px;
+    width: 225px;
+    height: 275px;  
+    background-color: rgba(0, 0, 0, 0.7);
+}
